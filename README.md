@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**DAMDUCHAI/damduchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -👋 Hi, I’m DAMDUCHAI
 -👀 I’m interested in Football, Swimming, and always want to challenge myself to have more experience
